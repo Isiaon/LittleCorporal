@@ -1,3 +1,5 @@
+# A Automated Maldoc Generator
+
 # LittleCorporal
 LittleCorporal: A C# Automated Maldoc Generator
 ```
